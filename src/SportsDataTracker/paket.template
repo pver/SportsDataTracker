@@ -1,0 +1,23 @@
+type project
+owners
+    Peter Vermeulen
+authors 
+    Peter Vermeulen
+projectUrl
+    http://github.com/pver/SportsDataTracker
+iconUrl
+    https://raw.githubusercontent.com/pver/SportsDataTracker/master/docs/files/img/logo.png
+licenseUrl
+    http://github.com/pver/SportsDataTracker/blob/master/LICENSE.txt
+requireLicenseAcceptance
+    false
+copyright
+    Copyright 2015
+tags
+    
+summary
+    An application and library that allows analyzing sports data.
+description
+    Description not set
+
+
